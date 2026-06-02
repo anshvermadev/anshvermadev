@@ -26,19 +26,25 @@ Driven by curiosity and continuous learning, I actively participate in **hackath
 {
   "tech_stack": {
     "languages": [
-      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP"
+      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart"
     ],
     "frontend": [
-      "React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"
+      "React.js", "Next.js", "Tailwind CSS", "Framer Motion", "HTML5", "CSS3", "Vite"
     ],
     "backend": [
-      "Node.js", "Express.js"
+      "Node.js", "Express.js", "FastAPI", "Flask"
     ],
     "databases": [
-      "MySQL", "MongoDB", "Redis"
+      "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
     ],
     "cloud_tools_and_devops": [
-      "AWS", "Vercel", "Netlify", "Git", "GitHub", "Figma"
+      "AWS", "Google Cloud", "Cloudflare", "Vercel", "Netlify", "Git", "GitHub", "Figma"
+    ],
+    "mobile": [
+      "Flutter"
+    ],
+    "ai_ml_and_cv": [
+      "YOLO", "OpenCV"
     ]
   }
 }
