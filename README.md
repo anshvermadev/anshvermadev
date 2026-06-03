@@ -28,25 +28,26 @@ Driven by curiosity and continuous learning, I actively participate in **hackath
 {
   "tech_stack": {
     "languages": [
-      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart"
+      "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "PHP", "Dart", "Google Apps Script"
     ],
     "frontend": [
-      "React.js", "Next.js", "Tailwind CSS", "Framer Motion", "HTML5", "CSS3", "Vite"
+      "React.js", "Next.js", "Tailwind CSS", "Shadcn UI", "Framer Motion", "HTML5", "CSS3", "Vite"
     ],
     "backend": [
-      "Node.js", "Express.js", "FastAPI", "Flask"
+      "Node.js", "Express.js", "FastAPI", "Flask", "JWT"
     ],
     "databases": [
       "MySQL", "MongoDB", "PostgreSQL", "Redis", "Firebase", "Supabase"
     ],
     "cloud_tools_and_devops": [
-      "AWS", "Google Cloud", "Cloudflare", "Vercel", "Netlify", "Git", "GitHub", "Figma"
+      "AWS", "Google Cloud", "Cloudflare", "Vercel", "Netlify",
+      "Git", "GitHub", "npm", "VS Code", "Jupyter Notebook"
     ],
     "mobile": [
       "Flutter"
     ],
     "ai_ml_and_cv": [
-      "YOLO", "OpenCV"
+      "YOLO", "OpenCV", "Hugging Face"
     ]
   }
 }
