@@ -10,11 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about building **scalable web applications, AI-powered solutions, and immersive digital experiences**. My current focus lies at the intersection of **Web Development, Artificial Intelligence, and Computer Vision**, using technologies like **React, Next.js, TypeScript, YOLO, and OpenCV** to create intelligent and impactful products.
+> **"Growing crops and code! 🌾💻"**
+
+I am a proud **farmer** who stays grounded by working on my family's land, and a developer passionate about building **scalable web applications, AI-powered solutions, and immersive digital experiences**. My current focus lies at the intersection of **Web Development, Artificial Intelligence, and Computer Vision**, using technologies like **React, Next.js, TypeScript, YOLO, and OpenCV** to create intelligent and impactful products.
 
 I enjoy working across the full stack, from crafting responsive user interfaces to developing robust backend systems and integrating modern AI capabilities. I'm also exploring **Android Development** and expanding my expertise in software quality and testing.
 
-Driven by curiosity and continuous learning, I actively participate in **hackathons, open-source projects, and innovative side projects**, always seeking new challenges and opportunities to build meaningful technology.
+Driven by curiosity and continuous learning, I actively participate in **hackathons, open-source projects, and innovative side projects**. Whether I am cultivating the land or deploying a new feature, I bring the same dedication, hard work, and adaptability to every project I take on.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
